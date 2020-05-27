@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+Here's a snazzy new title, and also an emoji 🎉.
 
 ---
 
